@@ -26,6 +26,7 @@ Users should be able to:
 
 ![](/design/ss1.png)
 ![](/design/ss2.png)
+![](/design/ss3.png)
 
 ### Links
 
